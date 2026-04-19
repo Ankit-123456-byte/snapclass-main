@@ -1,0 +1,18 @@
+# Utilities
+numpy
+pandas
+
+# FACE RECOGNITION
+scikit-learn
+#dlib-bin
+dlib-19.24.99-cp312-cp312-win_amd64.whl
+git+https://github.com/ageitgey/face_recognition_models
+setuptools<70.0.0
+
+supabase
+bcrypt
+
+segno
+pillow
+
+streamlit
