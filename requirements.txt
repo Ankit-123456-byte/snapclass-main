@@ -1,11 +1,12 @@
+streamlit
+
 # Utilities
 numpy
 pandas
 
-# FACE RECOGNITION
+# Face Recognition
 scikit-learn
-#dlib-bin
-dlib-19.24.99-cp312-cp312-win_amd64.whl
+dlib
 git+https://github.com/ageitgey/face_recognition_models
 setuptools<70.0.0
 
@@ -15,4 +16,5 @@ bcrypt
 segno
 pillow
 
-streamlit
+librosa
+resemblyzer
