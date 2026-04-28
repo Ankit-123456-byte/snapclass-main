@@ -20,4 +20,5 @@ segno
 pillow
 
 librosa
+webrtcvad-wheels
 resemblyzer
