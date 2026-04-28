@@ -10,7 +10,7 @@ dlib-bin
 face_recognition_models
 setuptools<70.0.0
 
-supabase==2.3.1
+supabase>=2.9.0
 bcrypt
 
 segno
